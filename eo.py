@@ -1,6 +1,6 @@
 # Accessing items in a Python tuple can be done using various techniques, depending on the specific items we want to access.
 
-fruits = ["apple", "banana", "cherry", "date"]
+fruits = ("apple", "banana", "cherry", "date")
 
 
 # Accessing Elements by Index i.e positive indexing
