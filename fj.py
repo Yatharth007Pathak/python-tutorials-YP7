@@ -5,7 +5,9 @@ my_dict = {
 }
 
 print(my_dict)
-
+print(my_dict.keys())
+print(my_dict.values())
+print(my_dict.items())
 
 # We can add a new key-value pair or modify an existing one by assigning a value to a key.
 
