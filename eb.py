@@ -41,7 +41,7 @@ print(booleans)  # Output: [True, False, True, True, False]
 # List of Tuples
 coordinates = [(0, 0), (1, 1), (2, 2)]
 print(coordinates)  # Output: [(0, 0), (1, 1), (2, 2)]
-9
+
 # List of Lists
 list_of_lists = [[1, 2], [3, 4], [5, 6]]
 print(list_of_lists)  # Output: [[1, 2], [3, 4], [5, 6]]
